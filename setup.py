@@ -19,7 +19,7 @@ setup(
       'codecov>=2.0.5,<2.1.0',
       'coverage>=4.2,<5.0.0',
       'django-resized>=0.3.5,<0.4.0',
-      'Pillow>=3.4.2,<5.0.0',
+      'Pillow>=3.4.2,<7.0.0',
       'ovp-core>=1.1.0,<2.0.0',
       'django-storages>=1.5.1,<1.6',
     ]
